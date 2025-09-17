@@ -63,3 +63,4 @@ class ConnectorClient:
                 {"Error message": traceback.format_exc()},
             )
             raise
+
